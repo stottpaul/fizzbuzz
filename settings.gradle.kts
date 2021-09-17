@@ -1,3 +1,3 @@
 
-rootProject.name = "kotlin-base"
+rootProject.name = "tdd-starter"
 
